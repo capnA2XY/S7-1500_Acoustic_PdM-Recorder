@@ -4,7 +4,7 @@ Multi-Channel Acoustic Data Acquisition with Phase-Accurate
 SIMATIC Graph State Synchronization via In-Band AFSK Modulation.
 
 Targets: Raspberry Pi 5 + NVMe SSD + USB Audio Interface + S7-1500 PLC
-Author:  Anonymous
+Author:  Attila Aradi (ION-Technik Kft.)
 License: MIT
 """
 
