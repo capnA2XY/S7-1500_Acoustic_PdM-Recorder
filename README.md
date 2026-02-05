@@ -247,7 +247,7 @@ s7-acoustic-pdm/
 If you use this system in academic work:
 
 ```bibtex
-@inproceedings{anon2025pdm,
+@inproceedings{aradi2026pdm,
   title     = {Multi-Channel Acoustic Data Acquisition and Phase-Accurate
                State Synchronization for {SIMATIC} {S7-1500} Graph-Based
                Predictive Maintenance},
