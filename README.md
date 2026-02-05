@@ -251,9 +251,9 @@ If you use this system in academic work:
   title     = {Multi-Channel Acoustic Data Acquisition and Phase-Accurate
                State Synchronization for {SIMATIC} {S7-1500} Graph-Based
                Predictive Maintenance},
-  author    = {Anonymous},
-  booktitle = {Proceedings of ...},
-  year      = {2025}
+  author    = {Attila Aradi},
+  booktitle = {ICCC 2026},
+  year      = {2026}
 }
 ```
 
